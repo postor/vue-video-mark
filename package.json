@@ -1,0 +1,25 @@
+{
+  "name": "vue-video-mark",
+  "version": "1.0.2",
+  "description": "",
+  "main": "VideoMark.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "poi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/vue-video-mark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/vue-video-mark/issues"
+  },
+  "homepage": "https://github.com/postor/vue-video-mark#readme",
+  "dependencies": {
+    "capture-video-frame": "^0.1.3",
+    "jquery": "^3.3.1"
+  }
+}
