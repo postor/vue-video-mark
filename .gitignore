@@ -2,3 +2,4 @@
 /dist
 /yarn-error.log
 /.vscode/settings.json
+yarn.lock
